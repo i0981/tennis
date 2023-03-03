@@ -7,7 +7,7 @@ import { Subscription, BehaviorSubject } from 'rxjs';
 import { debounceTime, map, shareReplay, tap } from 'rxjs/operators';
 
 const CATEGORIES = Object.keys(GEARS);
-const ATTRIBUTES = ['Agilità', 'Stamina', 'Serve', 'Volley', 'Forehand', 'Backhand'];
+const ATTRIBUTES = ['Agility', 'Stamina', 'Serve', 'Volley', 'Forehand', 'Backhand'];
 const STARTERS = [
   ['Character', 'Jonah'],
   ['Racket', 'Starter Racket'],

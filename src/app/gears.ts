@@ -380,8 +380,8 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Agilità": [
-          23,
+        "Agility": [
+          3,
           5,
           6,
           7,
