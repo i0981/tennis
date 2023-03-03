@@ -5,7 +5,7 @@
   Per modificare gli attributi clicca su edit nella tabella della pagina Wiki. Inviami poi un'email (clicca in forndo a questa pagina).
   Per importare/esportare i livelli delle tue carte,
   <b><u><a style="cursor: pointer; color: blue" (click)="toggleMode()">clicca qui</a></u></b>
-  to toggle to JSON mode and copy/paste the JSON text.
+  per copiare/incollare il testo JSON.
 </p>
 
 <textarea *ngIf="mode === 'JSON'" (change)="updateJson(ta.value)" #ta rows="30" cols="30">{{ configJson }}</textarea>
