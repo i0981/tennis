@@ -347,7 +347,7 @@ export const GEARS = {
     },
     {
       "url": "https://tennis-clash.fandom.com/wiki/Leo",
-      "name": "Leo",
+      "name": "Leogears",
       "foundIn": "",
       "rarity": "",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/1/1d/Leo.png/revision/latest?cb=20200119154813",
@@ -380,8 +380,8 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Agility": [
-          3,
+        "Agilità": [
+          23,
           5,
           6,
           7,
