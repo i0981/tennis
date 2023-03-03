@@ -347,7 +347,7 @@ export const GEARS = {
     },
     {
       "url": "https://tennis-clash.fandom.com/wiki/Leo",
-      "name": "Leogears",
+      "name": "LeoGasman",
       "foundIn": "",
       "rarity": "",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/1/1d/Leo.png/revision/latest?cb=20200119154813",
