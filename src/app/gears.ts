@@ -8,7 +8,7 @@ export const GEARS = {
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/a/a0/Jonah.png/revision/latest?cb=20200119155809",
       "upgrade": {
         "Cards": [
-          "Starter",
+          "",
           "2",
           "3",
           "4",
@@ -21,8 +21,8 @@ export const GEARS = {
           "240"
         ],
         "Price": [
-          "/",
-          "0.4",
+          "",
+          "400",
           "1.4k",
           "3.2k",
           "6k",
@@ -137,7 +137,7 @@ export const GEARS = {
         ],
         "Price": [
           "/",
-          "0.4",
+          "400",
           "1.4k",
           "3.2k",
           "6k",
@@ -461,137 +461,6 @@ export const GEARS = {
       }
     },
     {
-      "url": "https://tennis-clash.fandom.com/wiki/Hyun-Jun",
-      "name": "Hyun-Jun",
-      "foundIn": "",
-      "rarity": "",
-      "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/f/fa/Hyun-Jun.png/revision/latest?cb=20230302201326",
-      "upgrade": {
-        "Cards": [
-          "Starter",
-          "2",
-          "3",
-          "4",
-          "5",
-          "8",
-          "10",
-          "20",
-          "40",
-          "60",
-          "100"
-          "200"
-          "600"
-        ],
-        "Price": [
-          "/",
-          "0.4",
-          "1.4k",
-          "3.2k",
-          "6k",
-          "11k",
-          "17.2k",
-          "26k",
-          "36k",
-          "52k",
-          "660k",
-          "?"
-          "?"
-        ]
-      },
-      "skills": {
-        "Agility": [
-          4,
-          5,
-          6,
-          7,
-          ,
-          ,
-          9,
-          ,
-          ,
-          ,
-          ,
-          ,
-          17
-        ],
-        "Stamina": [
-          4,
-          4,
-          5,
-          5,
-          ,
-          ,
-          7,
-          ,
-          ,
-          ,
-          ,
-          ,
-          11
-        ],
-        "Serve": [
-          4,
-          5,
-          6,
-          7,
-          ,
-          ,
-          10,
-          ,
-          ,
-          ,
-          ,
-          ,
-          16
-        ],
-        "Volley": [
-          2,
-          3,
-          4,
-          4,
-          ,
-          ,
-          6,
-          ,
-          ,
-          ,
-          ,
-          ,
-          11
-        ],
-        "Forehand": [
-          8,
-          9,
-          10,
-          11,
-          ,
-          ,
-          16,
-          ,
-          ,
-          ,
-          ,
-          ,
-          23
-        ],
-        "Backhand": [
-          5,
-          6,
-          7,
-          8,
-          ,
-          ,
-          11,
-          ,
-          ,
-          ,
-          ,
-          ,
-          17
-        ]
-      }
-    },
-    {
       "url": "https://tennis-clash.fandom.com/wiki/Kaito",
       "name": "Kaito",
       "foundIn": "",
@@ -599,7 +468,7 @@ export const GEARS = {
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/9/92/Kaito.png/revision/latest?cb=20200119155948",
       "upgrade": {
         "Cards": [
-          "Starter",
+          "",
           "2",
           "3",
           "4",
@@ -616,7 +485,7 @@ export const GEARS = {
           "750"
         ],
         "Price": [
-          "/",
+          "",
           "6k",
           "11k",
           "17.2k",
@@ -746,7 +615,7 @@ export const GEARS = {
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/2/29/Viktoria.png/revision/latest?cb=20200119160110",
       "upgrade": {
         "Cards": [
-          "Starter",
+          "L",
           "2",
           "3",
           "4",
@@ -893,7 +762,7 @@ export const GEARS = {
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/5/5f/Diana.png/revision/latest?cb=20200119155840",
       "upgrade": {
         "Cards": [
-          "Starter",
+          "/",
           "2",
           "3",
           "4",
@@ -1040,7 +909,7 @@ export const GEARS = {
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/5/58/Mei-Li.png/revision/latest?cb=20200129205010",
       "upgrade": {
         "Cards": [
-          "Starter",
+          "",
           "2",
           "3",
           "4",
@@ -1187,7 +1056,7 @@ export const GEARS = {
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/b/bc/Luc.png/revision/latest?cb=20200319135439",
       "upgrade": {
         "Cards": [
-          "Starter",
+          "L",
           "2",
           "3",
           "4",
@@ -1334,7 +1203,7 @@ export const GEARS = {
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/9/99/Abeke2.png/revision/latest?cb=20220702175508",
       "upgrade": {
         "Cards": [
-          "Starter",
+          "",
           "2",
           "3",
           "4",
@@ -1351,7 +1220,7 @@ export const GEARS = {
           "750"
         ],
         "Price": [
-          "/",
+          "",
           "52k",
           "86k",
           "110k",
@@ -1481,7 +1350,7 @@ export const GEARS = {
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/3/3d/Omar_Polishing_WIP_1.png/revision/latest?cb=20210908140518",
       "upgrade": {
         "Cards": [
-          "Starter",
+          "/",
           "2",
           "3",
           "4",
@@ -1637,13 +1506,13 @@ export const GEARS = {
     },
     {
       "url": "https://tennis-clash.fandom.com/wiki/The_Bullseye",
-      "name": "Il bersaglio",
+      "name": "The Bullseye",
       "foundIn": "Tour 7",
       "rarity": "Epic",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/a/ae/The_Bullseye.png/revision/latest?cb=20200119172849",
       "upgrade": {
         "Cards": [
-          "Starter",
+          "",
           "",
           "",
           "",
@@ -1660,7 +1529,7 @@ export const GEARS = {
           ""
         ],
         "Price": [
-          "/",
+          "",
           "",
           "",
           "",
@@ -1699,13 +1568,13 @@ export const GEARS = {
     },
     {
       "url": "https://tennis-clash.fandom.com/wiki/The_Eagle",
-      "name": "L'aquila",
+      "name": "The Eagle",
       "foundIn": "Tour 1 and above",
       "rarity": "Common",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/1/18/The_Eagle.png/revision/latest?cb=20200119160844",
       "upgrade": {
         "Cards": [
-          "Starter",
+          "L",
           "2",
           "4",
           "10",
@@ -1718,7 +1587,7 @@ export const GEARS = {
           "2k"
         ],
         "Price": [
-          "/",
+          "",
           "",
           "600",
           "1.4k",
@@ -1762,7 +1631,7 @@ export const GEARS = {
     },
     {
       "url": "https://tennis-clash.fandom.com/wiki/The_Hammer",
-      "name": "Il martello",
+      "name": "The Hammer",
       "foundIn": "Tour 6",
       "rarity": "Epic",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/3/3a/The_Hammer.png/revision/latest?cb=20200119171931",
@@ -1841,7 +1710,7 @@ export const GEARS = {
     },
     {
       "url": "https://tennis-clash.fandom.com/wiki/The_Outback",
-      "name": "L'entroterra",
+      "name": "The Outback",
       "foundIn": "Tour 3 and above",
       "rarity": "Epic",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/a/a1/The_Outback.png/revision/latest?cb=20200119163206",
@@ -1904,7 +1773,7 @@ export const GEARS = {
     },
     {
       "url": "https://tennis-clash.fandom.com/wiki/The_Panther",
-      "name": "La pantera",
+      "name": "The Panther",
       "foundIn": "Tour 4 and above",
       "rarity": "Rare",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/2/27/The_Panther.png/revision/latest?cb=20200119163628",
@@ -1954,7 +1823,7 @@ export const GEARS = {
     },
     {
       "url": "https://tennis-clash.fandom.com/wiki/The_Patriot",
-      "name": "Il patriota",
+      "name": "The Patriot",
       "foundIn": "Tour 2 and above",
       "rarity": "Epic",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/8/88/The_Patriot.png/revision/latest?cb=20200119170819",
@@ -2017,7 +1886,7 @@ export const GEARS = {
     },
     {
       "url": "https://tennis-clash.fandom.com/wiki/The_Samurai",
-      "name": "Il Samurai",
+      "name": "The Samurai",
       "foundIn": "Tour 5 and above",
       "rarity": "Rare",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/4/4b/The_Samurai.png/revision/latest?cb=20200119164010",
@@ -2190,7 +2059,7 @@ export const GEARS = {
     },
     {
       "url": "https://tennis-clash.fandom.com/wiki/Tactical_Grip",
-      "name": "Grip tattico",
+      "name": "Tactical Grip",
       "foundIn": "Tour 7",
       "rarity": "Common",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/9/99/Tactical_Grip.png/revision/latest?cb=20200119183439",
@@ -2269,7 +2138,7 @@ export const GEARS = {
     },
     {
       "url": "https://tennis-clash.fandom.com/wiki/The_Cobra",
-      "name": "Il cobra",
+      "name": "The Cobra",
       "foundIn": "Tour 4 and above",
       "rarity": "Epic",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/f/f1/The_Cobra.png/revision/latest?cb=20200119165513",
@@ -2332,7 +2201,7 @@ export const GEARS = {
     },
     {
       "url": "https://tennis-clash.fandom.com/wiki/The_Forge",
-      "name": "La fucina",
+      "name": "The Forge",
       "foundIn": "Tour 6 and above",
       "rarity": "Epic",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/8/86/The_Forge.png/revision/latest?cb=20200119183013",
@@ -2411,7 +2280,7 @@ export const GEARS = {
     },
     {
       "url": "https://tennis-clash.fandom.com/wiki/The_Katana",
-      "name": "La katana",
+      "name": "The Katana",
       "foundIn": "Tour 5 and above",
       "rarity": "Rare",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/7/7b/The_Katana.png/revision/latest?cb=20200119180752",
@@ -2490,7 +2359,7 @@ export const GEARS = {
     },
     {
       "url": "https://tennis-clash.fandom.com/wiki/The_Machete",
-      "name": "Il machete",
+      "name": "The Machete",
       "foundIn": "Tour 3 and above",
       "rarity": "Rare",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/d/df/The_Machete.png/revision/latest?cb=20200119181219",
@@ -2540,7 +2409,7 @@ export const GEARS = {
     },
     {
       "url": "https://tennis-clash.fandom.com/wiki/The_Talon",
-      "name": "L'artiglio",
+      "name": "The Talon",
       "foundIn": "Tour 2 and above",
       "rarity": "Epic",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/c/c2/The_Talon.png/revision/latest?cb=20200119181315",
@@ -2603,7 +2472,7 @@ export const GEARS = {
     },
     {
       "url": "https://tennis-clash.fandom.com/wiki/The_Titan",
-      "name": "Il titano",
+      "name": "The Titan",
       "foundIn": "Tour 8",
       "rarity": "Epic",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/7/71/The_Titan.png/revision/latest?cb=20200119182008",
@@ -2665,7 +2534,7 @@ export const GEARS = {
     },
     {
       "url": "https://tennis-clash.fandom.com/wiki/The_Warrior",
-      "name": "Il guerriero",
+      "name": "The Warrior",
       "foundIn": "Tour 1 and above",
       "rarity": "Common",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/d/dd/The_Warrior.png/revision/latest?cb=20200119181657",
@@ -2743,7 +2612,7 @@ export const GEARS = {
     },
     {
       "url": "https://tennis-clash.fandom.com/wiki/The_Anvil",
-      "name": "L'incudine",
+      "name": "The Anvil",
       "foundIn": "Tour 6",
       "rarity": "Rare",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/a/a8/The_Anvil.png/revision/latest?cb=20200119193426",
@@ -2822,7 +2691,7 @@ export const GEARS = {
     },
     {
       "url": "https://tennis-clash.fandom.com/wiki/The_Ballistic",
-      "name": "La balistica",
+      "name": "The Ballistic",
       "foundIn": "Tour 7 and above",
       "rarity": "Rare",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/b/b7/The_Balistic.png/revision/latest?cb=20200119193138",
@@ -2901,7 +2770,7 @@ export const GEARS = {
     },
     {
       "url": "https://tennis-clash.fandom.com/wiki/The_Feather",
-      "name": "La piuma",
+      "name": "The Feather",
       "foundIn": "Tour 1 and above",
       "rarity": "Epic",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/1/19/The_Feather.png/revision/latest?cb=20200119192517",
@@ -2951,7 +2820,7 @@ export const GEARS = {
     },
     {
       "url": "https://tennis-clash.fandom.com/wiki/The_Hades_Treads",
-      "name": "I percorsi di Ade",
+      "name": "The Hades Treads",
       "foundIn": "Tour 8",
       "rarity": "Epic",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/f/f4/Hades_Treads.png/revision/latest?cb=20200119193746",
@@ -3013,7 +2882,7 @@ export const GEARS = {
     },
     {
       "url": "https://tennis-clash.fandom.com/wiki/The_Hunter",
-      "name": "Il cacciatore",
+      "name": "The Hunter",
       "foundIn": "Tour 3 and above",
       "rarity": "Common",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/1/1b/The_Hunter.png/revision/latest?cb=20200119192607",
@@ -3076,7 +2945,7 @@ export const GEARS = {
     },
     {
       "url": "https://tennis-clash.fandom.com/wiki/The_Piranha",
-      "name": "Il piragna",
+      "name": "The Piranha",
       "foundIn": "Tour 4 and above",
       "rarity": "Epic",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/6/69/The_Piranha.png/revision/latest?cb=20200119192707",
@@ -3139,7 +3008,7 @@ export const GEARS = {
     },
     {
       "url": "https://tennis-clash.fandom.com/wiki/The_Raptor",
-      "name": "Il rapace",
+      "name": "The Raptor",
       "foundIn": "Tour 2 and above",
       "rarity": "Common",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/3/33/The_Raptor.png/revision/latest?cb=20200119194149",
@@ -3202,7 +3071,7 @@ export const GEARS = {
     },
     {
       "url": "https://tennis-clash.fandom.com/wiki/The_Shuriken",
-      "name": "La shuriken",
+      "name": "The Shuriken",
       "foundIn": "Tour 5 and above",
       "rarity": "Epic",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/4/42/The_Shuriken.png/revision/latest?cb=20200119193927",
@@ -3296,7 +3165,7 @@ export const GEARS = {
     },
     {
       "url": "https://tennis-clash.fandom.com/wiki/Jolly_Roger",
-      "name": "Bandiera pirata",
+      "name": "Jolly Roger",
       "foundIn": "Tour 3 and above",
       "rarity": "Epic",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/8/8f/Jolly_Roger.png/revision/latest?cb=20200119212854",
@@ -3359,7 +3228,7 @@ export const GEARS = {
     },
     {
       "url": "https://tennis-clash.fandom.com/wiki/The_Gladiator",
-      "name": "Il gladiatore",
+      "name": "The Gladiator",
       "foundIn": "Tour 7 and above",
       "rarity": "Epic",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/9/98/The_Gladiator.png/revision/latest?cb=20200119213722",
@@ -3421,7 +3290,7 @@ export const GEARS = {
     },
     {
       "url": "https://tennis-clash.fandom.com/wiki/The_Kodiak",
-      "name": "L'orso Kodiak",
+      "name": "The Kodiak",
       "foundIn": "Tour 6 and above",
       "rarity": "Rare",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/2/26/The_Kodiak.png/revision/latest?cb=20200119213602",
@@ -3500,7 +3369,7 @@ export const GEARS = {
     },
     {
       "url": "https://tennis-clash.fandom.com/wiki/The_Koi",
-      "name": "Il koi",
+      "name": "The Koi",
       "foundIn": "Tour 5 and above",
       "rarity": "Epic",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/0/0a/The_Koi.png/revision/latest?cb=20200119213437",
@@ -3579,7 +3448,7 @@ export const GEARS = {
     },
     {
       "url": "https://tennis-clash.fandom.com/wiki/The_Macaw",
-      "name": "Il pappagallo ara",
+      "name": "The Macaw",
       "foundIn": "Tour 4 and above",
       "rarity": "Common",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/6/6b/The_Macaw.png/revision/latest?cb=20200119213314",
@@ -3642,7 +3511,7 @@ export const GEARS = {
     },
     {
       "url": "https://tennis-clash.fandom.com/wiki/The_Rocket",
-      "name": "Il razzo",
+      "name": "The Rocket",
       "foundIn": "Tour 2 and above",
       "rarity": "Common",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/a/af/The_Rocket.png/revision/latest?cb=20200119213210",
@@ -3705,7 +3574,7 @@ export const GEARS = {
     },
     {
       "url": "https://tennis-clash.fandom.com/wiki/The_Shield",
-      "name": "Lo scudo",
+      "name": "The Shield",
       "foundIn": "Tour 8",
       "rarity": "Rare",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/3/3b/The_Shield.png/revision/latest?cb=20200119214118",
@@ -3784,7 +3653,7 @@ export const GEARS = {
     },
     {
       "url": "https://tennis-clash.fandom.com/wiki/The_Tomahawk",
-      "name": "Il Tomahawk",
+      "name": "The Tomahawk",
       "foundIn": "Tour 1 and above",
       "rarity": "Epic",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/2/22/The_Tomahawk.png/revision/latest?cb=20200119213054",
@@ -3849,7 +3718,7 @@ export const GEARS = {
     },
     {
       "url": "https://tennis-clash.fandom.com/wiki/Antioxidants",
-      "name": "Antiossidanti",
+      "name": "Antioxidants",
       "foundIn": "Tour 6",
       "rarity": "Common",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/a/ab/Antioxidants.png/revision/latest?cb=20200120003733",
@@ -3928,7 +3797,7 @@ export const GEARS = {
     },
     {
       "url": "https://tennis-clash.fandom.com/wiki/Carboload",
-      "name": "Carico di carboidrati",
+      "name": "Carboload",
       "foundIn": "Tour 7",
       "rarity": "Epic",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/5/55/Carboload.png/revision/latest?cb=20200120003547",
@@ -4007,7 +3876,7 @@ export const GEARS = {
     },
     {
       "url": "https://tennis-clash.fandom.com/wiki/Increased_Hydration",
-      "name": "Idratazione aumentata",
+      "name": "Increased Hydration",
       "foundIn": "Tour 2 and above",
       "rarity": "Rare",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/d/d0/Increased_Hydration.png/revision/latest?cb=20200120003908",
@@ -4070,7 +3939,7 @@ export const GEARS = {
     },
     {
       "url": "https://tennis-clash.fandom.com/wiki/Keto_Sourcing",
-      "name": "Dieta keto",
+      "name": "Keto Sourcing",
       "foundIn": "Tour 5 and above",
       "rarity": "Epic",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/e/ef/Keto_Sourcing.png/revision/latest?cb=20200120004017",
@@ -4132,7 +4001,7 @@ export const GEARS = {
     },
     {
       "url": "https://tennis-clash.fandom.com/wiki/Lean_Protein",
-      "name": "Proteina magra",
+      "name": "Lean Protein",
       "foundIn": "Tour 1 and above",
       "rarity": "Epic",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/d/dc/Lean_Protein.png/revision/latest?cb=20200120004222",
@@ -4182,7 +4051,7 @@ export const GEARS = {
     },
     {
       "url": "https://tennis-clash.fandom.com/wiki/Macrobiotic",
-      "name": "Macrobiotico",
+      "name": "Macrobiotic",
       "foundIn": "Tour 3 and above",
       "rarity": "Epic",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/4/4d/Macrobiotic.png/revision/latest?cb=20200120004328",
@@ -4245,7 +4114,7 @@ export const GEARS = {
     },
     {
       "url": "https://tennis-clash.fandom.com/wiki/Natural_Energy",
-      "name": "Energia naturale",
+      "name": "Natural Energy",
       "foundIn": "Tour 7 and above",
       "rarity": "Rare",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/7/77/Natural_Energy.png/revision/latest?cb=20200120003344",
@@ -4324,7 +4193,7 @@ export const GEARS = {
     },
     {
       "url": "https://tennis-clash.fandom.com/wiki/Vegan_Diet",
-      "name": "Dieta vegana",
+      "name": "Vegan Diet",
       "foundIn": "Tour 4 and above",
       "rarity": "Common",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/3/36/Vegan_Diet.png/revision/latest?cb=20200120004146",
@@ -4402,7 +4271,7 @@ export const GEARS = {
     },
     {
       "url": "https://tennis-clash.fandom.com/wiki/Endurance",
-      "name": "Resistenza",
+      "name": "Endurance",
       "foundIn": "Tour 1 and above",
       "rarity": "Rare",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/0/0a/Endurance.png/revision/latest?cb=20200120002438",
@@ -4465,7 +4334,7 @@ export const GEARS = {
     },
     {
       "url": "https://tennis-clash.fandom.com/wiki/Lunges",
-      "name": "Affondi",
+      "name": "Lunges",
       "foundIn": "Tour 8",
       "rarity": "Epic",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/8/87/Lunges.png/revision/latest?cb=20200120002857",
@@ -4527,7 +4396,7 @@ export const GEARS = {
     },
     {
       "url": "https://tennis-clash.fandom.com/wiki/Mountain_Climber",
-      "name": "Arrampicatore",
+      "name": "Mountain Climber",
       "foundIn": "Tour 7 and above",
       "rarity": "Rare",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/8/80/Mountain_Climber.png/revision/latest?cb=20200120003033",
@@ -4606,7 +4475,7 @@ export const GEARS = {
     },
     {
       "url": "https://tennis-clash.fandom.com/wiki/Plyometrics",
-      "name": "Pliometria",
+      "name": "Plyometrics",
       "foundIn": "Tour 3 and above",
       "rarity": "Common",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/a/ac/Plyometrics.png/revision/latest?cb=20200120002534",
@@ -4732,7 +4601,7 @@ export const GEARS = {
     },
     {
       "url": "https://tennis-clash.fandom.com/wiki/Resistance_Band",
-      "name": "Fascia di resistenza",
+      "name": "Resistance Band",
       "foundIn": "Tour 6 and above",
       "rarity": "Epic",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/6/67/Resistance_Band.png/revision/latest?cb=20200120003159",
@@ -4861,7 +4730,7 @@ export const GEARS = {
     },
     {
       "url": "https://tennis-clash.fandom.com/wiki/Weight_lifting",
-      "name": "Sollevamento pesi",
+      "name": "Weight lifting",
       "foundIn": "Tour 5 and above",
       "rarity": "Common",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/e/e2/Weight_Lifting.png/revision/latest?cb=20200120002758",
