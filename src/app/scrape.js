@@ -3,7 +3,7 @@ const https = require('https');
 
 const GEARS_URLS = {
   'Character': [
-    'https://tennis-clash.fandom.com/wiki/Jon',
+    'https://tennis-clash.fandom.com/wiki/Jonah',
     'https://tennis-clash.fandom.com/wiki/Hope',
     'https://tennis-clash.fandom.com/wiki/Florence',
     'https://tennis-clash.fandom.com/wiki/Leo',
@@ -12,6 +12,7 @@ const GEARS_URLS = {
     'https://tennis-clash.fandom.com/wiki/Diana',
     'https://tennis-clash.fandom.com/wiki/Mei-Li',
     'https://tennis-clash.fandom.com/wiki/Luc',
+    'https://tennis-clash.fandom.com/wiki/Abeke',
     'https://tennis-clash.fandom.com/wiki/Omar',
   ],
   'Racket': [
@@ -135,7 +136,7 @@ async function get_and_parse(url) {
     item.rarity = s.substring(i, j);
   }
 
-  meta = 'href="https://static.wikia.nocookie.net/tennis-clash/images';
+  meta = 'href="https://vignette.wikia.nocookie.net/tennis-clash/images';
   i = s.indexOf(meta) + 6;
   j = s.indexOf('"', i);
   item.imageUrl = s.substring(i, j).replace('static.', 'vignette.');
