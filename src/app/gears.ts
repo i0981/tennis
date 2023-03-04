@@ -1,5 +1,5 @@
 export const GEARS = {
-  "Character": [
+  "Personaggi": [
     {
       "url": "https://tennis-clash.fandom.com/wiki/Jonah",
       "name": "Jonah",

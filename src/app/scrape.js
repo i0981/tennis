@@ -2,7 +2,7 @@ const { assert } = require('console');
 const https = require('https');
 
 const GEARS_URLS = {
-  'Character': [
+  'Personaggi': [
     'https://tennis-clash.fandom.com/wiki/Jonah',
     'https://tennis-clash.fandom.com/wiki/Hope',
     'https://tennis-clash.fandom.com/wiki/Florence',
