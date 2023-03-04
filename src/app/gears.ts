@@ -151,7 +151,7 @@ export const GEARS = {
       },
       "skills": {
         "Agility": [
-          3,
+          13,
           5,
           6,
           7,
@@ -347,7 +347,7 @@ export const GEARS = {
     },
     {
       "url": "https://tennis-clash.fandom.com/wiki/Leo",
-      "name": "LeoGasman",
+      "name": "Leo",
       "foundIn": "",
       "rarity": "",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/1/1d/Leo.png/revision/latest?cb=20200119154813",
