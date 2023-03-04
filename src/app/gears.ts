@@ -8,7 +8,7 @@ export const GEARS = {
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/a/a0/Jonah.png/revision/latest?cb=20200119155809",
       "upgrade": {
         "Cards": [
-          "",
+          "Starter",
           "2",
           "3",
           "4",
@@ -21,8 +21,8 @@ export const GEARS = {
           "240"
         ],
         "Price": [
-          "",
-          "400",
+          "/",
+          "0.4",
           "1.4k",
           "3.2k",
           "6k",
@@ -137,7 +137,7 @@ export const GEARS = {
         ],
         "Price": [
           "/",
-          "400",
+          "0.4",
           "1.4k",
           "3.2k",
           "6k",
@@ -483,7 +483,7 @@ export const GEARS = {
           "600"
         ],
         "Price": [
-          "",
+          "/",
           "0.4",
           "1.4k",
           "3.2k",
@@ -599,7 +599,7 @@ export const GEARS = {
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/9/92/Kaito.png/revision/latest?cb=20200119155948",
       "upgrade": {
         "Cards": [
-          "",
+          "Starter",
           "2",
           "3",
           "4",
@@ -616,7 +616,7 @@ export const GEARS = {
           "750"
         ],
         "Price": [
-          "",
+          "/",
           "6k",
           "11k",
           "17.2k",
@@ -746,7 +746,7 @@ export const GEARS = {
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/2/29/Viktoria.png/revision/latest?cb=20200119160110",
       "upgrade": {
         "Cards": [
-          "L",
+          "Starter",
           "2",
           "3",
           "4",
@@ -893,7 +893,7 @@ export const GEARS = {
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/5/5f/Diana.png/revision/latest?cb=20200119155840",
       "upgrade": {
         "Cards": [
-          "/",
+          "Starter",
           "2",
           "3",
           "4",
@@ -1040,7 +1040,7 @@ export const GEARS = {
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/5/58/Mei-Li.png/revision/latest?cb=20200129205010",
       "upgrade": {
         "Cards": [
-          "",
+          "Starter",
           "2",
           "3",
           "4",
@@ -1187,7 +1187,7 @@ export const GEARS = {
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/b/bc/Luc.png/revision/latest?cb=20200319135439",
       "upgrade": {
         "Cards": [
-          "L",
+          "Starter",
           "2",
           "3",
           "4",
@@ -1334,7 +1334,7 @@ export const GEARS = {
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/9/99/Abeke2.png/revision/latest?cb=20220702175508",
       "upgrade": {
         "Cards": [
-          "",
+          "Starter",
           "2",
           "3",
           "4",
@@ -1351,7 +1351,7 @@ export const GEARS = {
           "750"
         ],
         "Price": [
-          "",
+          "/",
           "52k",
           "86k",
           "110k",
@@ -1481,7 +1481,7 @@ export const GEARS = {
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/3/3d/Omar_Polishing_WIP_1.png/revision/latest?cb=20210908140518",
       "upgrade": {
         "Cards": [
-          "/",
+          "Starter",
           "2",
           "3",
           "4",
@@ -1637,13 +1637,13 @@ export const GEARS = {
     },
     {
       "url": "https://tennis-clash.fandom.com/wiki/The_Bullseye",
-      "name": "The Bullseye",
+      "name": "Il bersaglio",
       "foundIn": "Tour 7",
       "rarity": "Epic",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/a/ae/The_Bullseye.png/revision/latest?cb=20200119172849",
       "upgrade": {
         "Cards": [
-          "",
+          "Starter",
           "",
           "",
           "",
@@ -1660,7 +1660,7 @@ export const GEARS = {
           ""
         ],
         "Price": [
-          "",
+          "/",
           "",
           "",
           "",
@@ -1699,13 +1699,13 @@ export const GEARS = {
     },
     {
       "url": "https://tennis-clash.fandom.com/wiki/The_Eagle",
-      "name": "The Eagle",
+      "name": "L'aquila",
       "foundIn": "Tour 1 and above",
       "rarity": "Common",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/1/18/The_Eagle.png/revision/latest?cb=20200119160844",
       "upgrade": {
         "Cards": [
-          "L",
+          "Starter",
           "2",
           "4",
           "10",
@@ -1718,7 +1718,7 @@ export const GEARS = {
           "2k"
         ],
         "Price": [
-          "",
+          "/",
           "",
           "600",
           "1.4k",
@@ -1762,7 +1762,7 @@ export const GEARS = {
     },
     {
       "url": "https://tennis-clash.fandom.com/wiki/The_Hammer",
-      "name": "The Hammer",
+      "name": "Il martello",
       "foundIn": "Tour 6",
       "rarity": "Epic",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/3/3a/The_Hammer.png/revision/latest?cb=20200119171931",
@@ -1841,7 +1841,7 @@ export const GEARS = {
     },
     {
       "url": "https://tennis-clash.fandom.com/wiki/The_Outback",
-      "name": "The Outback",
+      "name": "L'entroterra",
       "foundIn": "Tour 3 and above",
       "rarity": "Epic",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/a/a1/The_Outback.png/revision/latest?cb=20200119163206",
@@ -1904,7 +1904,7 @@ export const GEARS = {
     },
     {
       "url": "https://tennis-clash.fandom.com/wiki/The_Panther",
-      "name": "The Panther",
+      "name": "La pantera",
       "foundIn": "Tour 4 and above",
       "rarity": "Rare",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/2/27/The_Panther.png/revision/latest?cb=20200119163628",
@@ -1954,7 +1954,7 @@ export const GEARS = {
     },
     {
       "url": "https://tennis-clash.fandom.com/wiki/The_Patriot",
-      "name": "The Patriot",
+      "name": "Il patriota",
       "foundIn": "Tour 2 and above",
       "rarity": "Epic",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/8/88/The_Patriot.png/revision/latest?cb=20200119170819",
@@ -2017,7 +2017,7 @@ export const GEARS = {
     },
     {
       "url": "https://tennis-clash.fandom.com/wiki/The_Samurai",
-      "name": "The Samurai",
+      "name": "Il Samurai",
       "foundIn": "Tour 5 and above",
       "rarity": "Rare",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/4/4b/The_Samurai.png/revision/latest?cb=20200119164010",
