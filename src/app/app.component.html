@@ -39,7 +39,7 @@
           </ng-template>
           <table class="border" cellpadding="5" cellspacing="0">
             <tr>
-              <th width="80">Level [<a [href]="item.url + '?veaction=edit&section=2'" target="_blank">edit</a>]</th>
+              <th width="80">Livello </th>
               <th width="25" *ngFor="let v of item.total; index as i" (click)="setInventory(g.category, item.name, i)"
                 [ngClass]="{'selected': hasInventory(g.category, item.name, i), 'number': true}">
                 {{ i + 1 }}
@@ -82,16 +82,14 @@
 
     <mat-divider></mat-divider>
 
-    <h1 style="padding: 10px; margin: 0;">Trova il tuo asset migliore</h1>
+    <h1 style="padding: 10px; margin: 0;">Trova il tuo asset migliore.</h1>
 
     <p style="padding: 10px; margin-top: 0;">
-      Dopo aver selezionato le tue carte disponibili (e relativi livelli raggiunti),
-      la tabella sotto ti darà i migliori asset ordinati per potenza totale. 
-      Puoi regolare il livello desiderato e/o impostare la tua potenza preferita per ogni attributo.
+      La tabella sotto ti mostra i migliori asset ordinati per potenza totale. 
+      Puoi regolare il livello desiderato e/o impostare la tua potenza minima per ogni attributo.
       Se non ti interessa un attributo, impostalo su "ignora" per escluderlo dal calcolo.
       Clicca sulla colonna scelta per vedere l'asset.
-      Fai clic sul <span style="color:blue">nome dell'attributo</span> a cui passare
-      input basato sull'intervallo in cui è possibile impostare anche il valore di potenza massimo.
+      Fai clic sul <span style="color:blue">nome dell'attributo</span> per impostare il valore della potenza minimo e massimo.
     </p>
 
     <table>
