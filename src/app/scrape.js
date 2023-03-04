@@ -37,7 +37,7 @@ const GEARS_URLS = {
     'https://tennis-clash.fandom.com/wiki/The_Titan',
     'https://tennis-clash.fandom.com/wiki/The_Warrior',
   ],
-  'Shoe': [
+  'Scarpe': [
     'https://tennis-clash.fandom.com/wiki/Starter_Shoes',
     'https://tennis-clash.fandom.com/wiki/The_Anvil',
     'https://tennis-clash.fandom.com/wiki/The_Ballistic',
@@ -48,7 +48,7 @@ const GEARS_URLS = {
     'https://tennis-clash.fandom.com/wiki/The_Raptor',
     'https://tennis-clash.fandom.com/wiki/The_Shuriken',
   ],
-  'Wristband': [
+  'Polsiera': [
     'https://tennis-clash.fandom.com/wiki/Starter_Band',
     'https://tennis-clash.fandom.com/wiki/Jolly_Roger',
     'https://tennis-clash.fandom.com/wiki/The_Gladiator',
@@ -59,7 +59,7 @@ const GEARS_URLS = {
     'https://tennis-clash.fandom.com/wiki/The_Shield',
     'https://tennis-clash.fandom.com/wiki/The_Tomahawk',
   ],
-  'Nutrition': [
+  'Nutrizione': [
     'https://tennis-clash.fandom.com/wiki/Starter_Protein',
     'https://tennis-clash.fandom.com/wiki/Antioxidants',
     'https://tennis-clash.fandom.com/wiki/Carboload',
@@ -70,7 +70,7 @@ const GEARS_URLS = {
     'https://tennis-clash.fandom.com/wiki/Natural_Energy',
     'https://tennis-clash.fandom.com/wiki/Vegan_Diet',
   ],
-  'Workout': [
+  'Allenamento': [
     'https://tennis-clash.fandom.com/wiki/Starter_Training',
     'https://tennis-clash.fandom.com/wiki/Endurance',
     'https://tennis-clash.fandom.com/wiki/Lunges',

@@ -12,10 +12,10 @@ const STARTERS = [
   ['Personaggio', 'Jonah'],
   ['Racchetta', 'Racchetta iniziale'],
   ['Grip', 'Grip iniziale'],
-  ['Shoe', 'Starter Shoes'],
-  ['Wristband', 'Starter Band'],
-  ['Nutrition', 'Starter Protein'],
-  ['Workout', 'Starter Training'],
+  ['Scarpe', 'Scarpe iniziali'],
+  ['Polsiera', 'Iniziale'],
+  ['Nutrizione', 'Proteine iniziali'],
+  ['Allenamento', 'Allenamento iniziale'],
 ];
 const MASK = 255;
 const EXPONENTS = [1];
@@ -284,10 +284,10 @@ export class AppComponent implements OnDestroy {
 
   constructor() {
     this.inventories = JSON.parse(localStorage.inventories ?? '{}');
-    const nutrition = this.inventories["Nutrition"];
-    if (nutrition && nutrition.hasOwnProperty("Neutral Energy")) {
-      nutrition["Natural Energy"] = nutrition["Neutral Energy"];
-      delete nutrition["Neutral Energy"];
+    const nutrizione = this.inventories["Nutrizione"];
+    if (nutrizione && nutrizione.hasOwnProperty("Neutral Energy")) {
+      nutrizione["Natural Energy"] = nutrizione["Neutral Energy"];
+      delete nutrizione["Neutral Energy"];
     }
     for (const [category, itemName] of STARTERS) {
       if (this.inventories[category]?.[itemName] === undefined) {

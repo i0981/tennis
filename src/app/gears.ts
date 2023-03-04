@@ -2596,10 +2596,10 @@ export const GEARS = {
       }
     }
   ],
-  "Shoe": [
+  "Scarpe": [
     {
       "url": "https://tennis-clash.fandom.com/wiki/Starter_Shoes",
-      "name": "Starter Shoes",
+      "name": "Scarpe iniziali",
       "foundIn": "Start",
       "rarity": "Common",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/1/1b/Starter_Shoe.png/revision/latest?cb=20200119185209",
@@ -3149,10 +3149,10 @@ export const GEARS = {
       }
     }
   ],
-  "Wristband": [
+  "Polsiera": [
     {
       "url": "https://tennis-clash.fandom.com/wiki/Starter_Band",
-      "name": "Starter Band",
+      "name": "Iniziale",
       "foundIn": "Start",
       "rarity": "Common",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/0/03/Starter_Band.png/revision/latest?cb=20200119212711",
@@ -3702,10 +3702,10 @@ export const GEARS = {
       }
     }
   ],
-  "Nutrition": [
+  "Nutrizione": [
     {
       "url": "https://tennis-clash.fandom.com/wiki/Starter_Protein",
-      "name": "Starter Protein",
+      "name": "Proteine iniziali",
       "foundIn": "Start",
       "rarity": "Common",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/4/4d/Starter_Protein.png/revision/latest?cb=20200120004110",
@@ -4255,10 +4255,10 @@ export const GEARS = {
       }
     }
   ],
-  "Workout": [
+  "Allenamento": [
     {
       "url": "https://tennis-clash.fandom.com/wiki/Starter_Training",
-      "name": "Starter Training",
+      "name": "Allenamento iniziale",
       "foundIn": "Start",
       "rarity": "Common",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/a/ac/Starter_Training.png/revision/latest?cb=20200120002723",
