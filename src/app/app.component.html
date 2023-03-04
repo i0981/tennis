@@ -2,10 +2,10 @@
 
 <p style="padding: 10px; margin-top: 0;">
     Seleziona i livelli delle tue carte disponibili.
-  Per modificare gli attributi clicca su edit nella tabella della pagina Wiki. Inviami poi un'email (clicca in forndo a questa pagina).
-  Per importare/esportare i livelli delle tue carte,
+  Puoi richiedere di modificare gli attributi inviandomi un'email (in fondo a questa pagina).
+  Per importare/esportare i livelli delle tue carte
   <b><u><a style="cursor: pointer; color: blue" (click)="toggleMode()">clicca qui</a></u></b>
-  to toggle to JSON mode and copy/paste the JSON text.
+  per copiare/incollare il testo JSON.
 </p>
 
 <textarea *ngIf="mode === 'JSON'" (change)="updateJson(ta.value)" #ta rows="30" cols="30">{{ configJson }}</textarea>
