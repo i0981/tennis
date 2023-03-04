@@ -3,7 +3,7 @@ const https = require('https');
 
 const GEARS_URLS = {
   'Character': [
-    'https://tennis-clash.fandom.com/wiki/Jonah',
+    'https://tennis-clash.fandom.com/wiki/Jon',
     'https://tennis-clash.fandom.com/wiki/Hope',
     'https://tennis-clash.fandom.com/wiki/Florence',
     'https://tennis-clash.fandom.com/wiki/Leo',
