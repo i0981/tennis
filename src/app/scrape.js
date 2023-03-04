@@ -7,6 +7,7 @@ const GEARS_URLS = {
     'https://tennis-clash.fandom.com/wiki/Hope',
     'https://tennis-clash.fandom.com/wiki/Florence',
     'https://tennis-clash.fandom.com/wiki/Leo',
+    'https://tennis-clash.fandom.com/wiki/Hyun-Jun',
     'https://tennis-clash.fandom.com/wiki/Kaito',
     'https://tennis-clash.fandom.com/wiki/Viktoria',
     'https://tennis-clash.fandom.com/wiki/Diana',
