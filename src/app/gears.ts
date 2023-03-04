@@ -461,6 +461,136 @@ export const GEARS = {
       }
     },
     {
+      "url": "https://tennis-clash.fandom.com/wiki/Hyun-Jun",
+      "name": "Hyun-Jun",
+      "foundIn": "",
+      "rarity": "",
+      "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/f/fa/Hyun-Jun.png/revision/latest?cb=20230302201326",
+      "upgrade": {
+        "Cards": [
+          "Starter",
+          "2",
+          "3",
+          "4",
+          "5",
+          "8",
+          "10",
+          "20",
+          "40",
+          "60",
+          "100"
+          "200"
+          "600"
+        ],
+        "Price": [
+          "400",
+          "1.4k",
+          "3.2k",
+          "6k",
+          "11k",
+          "17.2k",
+          "26k",
+          "36k",
+          "52k",
+          "660k",
+          "0k"
+          "0k"
+        ]
+      },
+      "skills": {
+        "Agility": [
+          4,
+          5,
+          6,
+          7,
+          ,
+          ,
+          9,
+          ,
+          ,
+          ,
+          ,
+          ,
+          17
+        ],
+        "Stamina": [
+          4,
+          4,
+          5,
+          5,
+          ,
+          ,
+          7,
+          ,
+          ,
+          ,
+          ,
+          ,
+          11
+        ],
+        "Serve": [
+          4,
+          5,
+          6,
+          7,
+          ,
+          ,
+          10,
+          ,
+          ,
+          ,
+          ,
+          ,
+          16
+        ],
+        "Volley": [
+          2,
+          3,
+          4,
+          4,
+          ,
+          ,
+          6,
+          ,
+          ,
+          ,
+          ,
+          ,
+          11
+        ],
+        "Forehand": [
+          8,
+          9,
+          10,
+          11,
+          ,
+          ,
+          16,
+          ,
+          ,
+          ,
+          ,
+          ,
+          23
+        ],
+        "Backhand": [
+          5,
+          6,
+          7,
+          8,
+          ,
+          ,
+          11,
+          ,
+          ,
+          ,
+          ,
+          ,
+          17
+        ]
+      }
+    },
+    {
       "url": "https://tennis-clash.fandom.com/wiki/Kaito",
       "name": "Kaito",
       "foundIn": "",
