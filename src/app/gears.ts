@@ -1,5 +1,5 @@
 export const GEARS = {
-  "Personaggi": [
+  "Personaggio": [
     {
       "url": "https://tennis-clash.fandom.com/wiki/Jonah",
       "name": "Jonah",
@@ -1490,10 +1490,10 @@ export const GEARS = {
       }
     }
   ],
-  "Racket": [
+  "Racchetta": [
     {
       "url": "https://tennis-clash.fandom.com/wiki/Starter_Racket",
-      "name": "Starter Racket",
+      "name": "Racchetta iniziale",
       "foundIn": "Start",
       "rarity": "Common",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/b/ba/Starter_Racket.png/revision/latest?cb=20200119161107",
@@ -2046,7 +2046,7 @@ export const GEARS = {
   "Grip": [
     {
       "url": "https://tennis-clash.fandom.com/wiki/Starter_Grip",
-      "name": "Starter Grip",
+      "name": "Grip iniziale",
       "foundIn": "Start",
       "rarity": "Common",
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/6/62/Starter_Grip.png/revision/latest?cb=20200119180605",

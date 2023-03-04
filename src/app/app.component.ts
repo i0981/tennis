@@ -9,9 +9,9 @@ import { debounceTime, map, shareReplay, tap } from 'rxjs/operators';
 const CATEGORIES = Object.keys(GEARS);
 const ATTRIBUTES = ['Agility', 'Stamina', 'Serve', 'Volley', 'Forehand', 'Backhand'];
 const STARTERS = [
-  ['Personaggi', 'Jonah'],
-  ['Racket', 'Starter Racket'],
-  ['Grip', 'Starter Grip'],
+  ['Personaggio', 'Jonah'],
+  ['Racchetta', 'Racchetta iniziale'],
+  ['Grip', 'Grip iniziale'],
   ['Shoe', 'Starter Shoes'],
   ['Wristband', 'Starter Band'],
   ['Nutrition', 'Starter Protein'],
@@ -305,7 +305,7 @@ export class AppComponent implements OnDestroy {
     for (const category of CATEGORIES) {
       const items = [];
       const value = GEARS[category];
-      if (category !== 'Personaggi') {
+      if (category !== 'Personaggio') {
         value.sort((a, b) => a.foundIn < b.foundIn ? -1 : 1);
       }
       for (const item of value) {
