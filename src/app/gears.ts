@@ -35,7 +35,7 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Agility": [
+        "Agilità": [
           2,
           3,
           4,
@@ -61,7 +61,7 @@ export const GEARS = {
           9,
           10
         ],
-        "Serve": [
+        "Servizio": [
           4,
           5,
           5,
@@ -74,7 +74,7 @@ export const GEARS = {
           12,
           13
         ],
-        "Volley": [
+        "Volée": [
           2,
           3,
           4,
@@ -87,7 +87,7 @@ export const GEARS = {
           8,
           9
         ],
-        "Forehand": [
+        "Dritto": [
           5,
           7,
           8,
@@ -100,7 +100,7 @@ export const GEARS = {
           16,
           17
         ],
-        "Backhand": [
+        "Rovescio": [
           4,
           5,
           6,
@@ -150,7 +150,7 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Agility": [
+        "Agilità": [
           3,
           5,
           6,
@@ -176,7 +176,7 @@ export const GEARS = {
           10,
           11
         ],
-        "Serve": [
+        "Servizio": [
           3,
           4,
           4,
@@ -189,7 +189,7 @@ export const GEARS = {
           10,
           11
         ],
-        "Volley": [
+        "Volée": [
           4,
           4,
           5,
@@ -202,7 +202,7 @@ export const GEARS = {
           12,
           13
         ],
-        "Forehand": [
+        "Dritto": [
           4,
           5,
           6,
@@ -215,7 +215,7 @@ export const GEARS = {
           13,
           14
         ],
-        "Backhand": [
+        "Rovescio": [
           4,
           5,
           6,
@@ -265,7 +265,7 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Agility": [
+        "Agilità": [
           5,
           7,
           9,
@@ -291,7 +291,7 @@ export const GEARS = {
           17,
           19
         ],
-        "Serve": [
+        "Servizio": [
           1,
           2,
           2,
@@ -304,7 +304,7 @@ export const GEARS = {
           6,
           7
         ],
-        "Volley": [
+        "Volée": [
           2,
           2,
           3,
@@ -317,7 +317,7 @@ export const GEARS = {
           7,
           8
         ],
-        "Forehand": [
+        "Dritto": [
           3,
           4,
           5,
@@ -330,7 +330,7 @@ export const GEARS = {
           11,
           12
         ],
-        "Backhand": [
+        "Rovescio": [
           3,
           4,
           5,
@@ -380,7 +380,7 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Agility": [
+        "Agilità": [
           3,
           5,
           6,
@@ -406,7 +406,7 @@ export const GEARS = {
           7,
           7
         ],
-        "Serve": [
+        "Servizio": [
           5,
           6,
           8,
@@ -419,7 +419,7 @@ export const GEARS = {
           16,
           17
         ],
-        "Volley": [
+        "Volée": [
           5,
           7,
           8,
@@ -432,7 +432,7 @@ export const GEARS = {
           16,
           17
         ],
-        "Forehand": [
+        "Dritto": [
           4,
           5,
           6,
@@ -445,7 +445,7 @@ export const GEARS = {
           12,
           13
         ],
-        "Backhand": [
+        "Rovescio": [
           3,
           4,
           5,
@@ -499,7 +499,7 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Agility": [
+        "Agilità": [
           4,
           5,
           6,
@@ -529,7 +529,7 @@ export const GEARS = {
           ,
           11
         ],
-        "Serve": [
+        "Servizio": [
           4,
           5,
           6,
@@ -544,7 +544,7 @@ export const GEARS = {
           ,
           16
         ],
-        "Volley": [
+        "Volée": [
           2,
           3,
           4,
@@ -559,7 +559,7 @@ export const GEARS = {
           ,
           11
         ],
-        "Forehand": [
+        "Dritto": [
           8,
           9,
           10,
@@ -574,7 +574,7 @@ export const GEARS = {
           ,
           23
         ],
-        "Backhand": [
+        "Rovescio": [
           5,
           6,
           7,
@@ -634,7 +634,7 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Agility": [
+        "Agilità": [
           6,
           7,
           9,
@@ -668,7 +668,7 @@ export const GEARS = {
           22,
           24
         ],
-        "Serve": [
+        "Servizio": [
           1,
           2,
           2,
@@ -685,7 +685,7 @@ export const GEARS = {
           8,
           9
         ],
-        "Volley": [
+        "Volée": [
           2,
           3,
           4,
@@ -702,7 +702,7 @@ export const GEARS = {
           11,
           12
         ],
-        "Forehand": [
+        "Dritto": [
           3,
           4,
           5,
@@ -719,7 +719,7 @@ export const GEARS = {
           14,
           15
         ],
-        "Backhand": [
+        "Rovescio": [
           3,
           4,
           5,
@@ -781,7 +781,7 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Agility": [
+        "Agilità": [
           3,
           5,
           6,
@@ -815,7 +815,7 @@ export const GEARS = {
           12,
           12
         ],
-        "Serve": [
+        "Servizio": [
           5,
           7,
           8,
@@ -832,7 +832,7 @@ export const GEARS = {
           16,
           17
         ],
-        "Volley": [
+        "Volée": [
           6,
           7,
           8,
@@ -849,7 +849,7 @@ export const GEARS = {
           12,
           12
         ],
-        "Forehand": [
+        "Dritto": [
           3,
           4,
           5,
@@ -866,7 +866,7 @@ export const GEARS = {
           23,
           24
         ],
-        "Backhand": [
+        "Rovescio": [
           3,
           4,
           5,
@@ -928,7 +928,7 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Agility": [
+        "Agilità": [
           4,
           5,
           7,
@@ -962,7 +962,7 @@ export const GEARS = {
           7,
           8
         ],
-        "Serve": [
+        "Servizio": [
           5,
           6,
           7,
@@ -979,7 +979,7 @@ export const GEARS = {
           19,
           20
         ],
-        "Volley": [
+        "Volée": [
           6,
           7,
           8,
@@ -996,7 +996,7 @@ export const GEARS = {
           22,
           23
         ],
-        "Forehand": [
+        "Dritto": [
           3,
           4,
           5,
@@ -1013,7 +1013,7 @@ export const GEARS = {
           15,
           16
         ],
-        "Backhand": [
+        "Rovescio": [
           3,
           4,
           5,
@@ -1075,7 +1075,7 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Agility": [
+        "Agilità": [
           3,
           5,
           6,
@@ -1109,7 +1109,7 @@ export const GEARS = {
           13,
           14
         ],
-        "Serve": [
+        "Servizio": [
           3,
           4,
           4,
@@ -1126,7 +1126,7 @@ export const GEARS = {
           13,
           14
         ],
-        "Volley": [
+        "Volée": [
           4,
           4,
           5,
@@ -1143,7 +1143,7 @@ export const GEARS = {
           15,
           16
         ],
-        "Forehand": [
+        "Dritto": [
           4,
           5,
           6,
@@ -1160,7 +1160,7 @@ export const GEARS = {
           18,
           19
         ],
-        "Backhand": [
+        "Rovescio": [
           4,
           5,
           5,
@@ -1222,7 +1222,7 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Agility": [
+        "Agilità": [
           3,
           4,
           5,
@@ -1256,7 +1256,7 @@ export const GEARS = {
           10,
           11
         ],
-        "Serve": [
+        "Servizio": [
           4,
           5,
           6,
@@ -1273,7 +1273,7 @@ export const GEARS = {
           17,
           18
         ],
-        "Volley": [
+        "Volée": [
           2,
           3,
           3,
@@ -1290,7 +1290,7 @@ export const GEARS = {
           11,
           11
         ],
-        "Forehand": [
+        "Dritto": [
           6,
           7,
           9,
@@ -1307,7 +1307,7 @@ export const GEARS = {
           22,
           24
         ],
-        "Backhand": [
+        "Rovescio": [
           4,
           5,
           6,
@@ -1369,7 +1369,7 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Agility": [
+        "Agilità": [
           6,
           8,
           10,
@@ -1403,7 +1403,7 @@ export const GEARS = {
           23,
           24
         ],
-        "Serve": [
+        "Servizio": [
           4,
           4,
           5,
@@ -1420,7 +1420,7 @@ export const GEARS = {
           15,
           16
         ],
-        "Volley": [
+        "Volée": [
           2,
           2,
           3,
@@ -1437,7 +1437,7 @@ export const GEARS = {
           10,
           10
         ],
-        "Forehand": [
+        "Dritto": [
           3,
           4,
           5,
@@ -1454,7 +1454,7 @@ export const GEARS = {
           14,
           15
         ],
-        "Backhand": [
+        "Rovescio": [
           4,
           6,
           7,
@@ -1516,7 +1516,7 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Agility": [
+        "Agilità": [
           3,
           5,
           6,
@@ -1550,7 +1550,7 @@ export const GEARS = {
           9,
           9
         ],
-        "Serve": [
+        "Servizio": [
           5,
           7,
           8,
@@ -1567,7 +1567,7 @@ export const GEARS = {
           21,
           22
         ],
-        "Volley": [
+        "Volée": [
           6,
           7,
           8,
@@ -1584,7 +1584,7 @@ export const GEARS = {
           21,
           22
         ],
-        "Forehand": [
+        "Dritto": [
           3,
           4,
           5,
@@ -1601,7 +1601,7 @@ export const GEARS = {
           15,
           16
         ],
-        "Backhand": [
+        "Rovescio": [
           3,
           4,
           5,
@@ -1630,7 +1630,7 @@ export const GEARS = {
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/b/ba/Starter_Racket.png/revision/latest?cb=20200119161107",
       "upgrade": {},
       "skills": {
-        "Forehand": [
+        "Dritto": [
           3
         ]
       }
@@ -1678,7 +1678,7 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Forehand": [
+        "Dritto": [
           0,
           0,
           0,
@@ -1732,7 +1732,7 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Agility": [
+        "Agilità": [
           2,
           3,
           3,
@@ -1745,7 +1745,7 @@ export const GEARS = {
           4,
           4
         ],
-        "Forehand": [
+        "Dritto": [
           3,
           4,
           7,
@@ -1803,7 +1803,7 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Backhand": [
+        "Rovescio": [
           0,
           0,
           0,
@@ -1820,7 +1820,7 @@ export const GEARS = {
           12,
           13
         ],
-        "Forehand": [
+        "Dritto": [
           0,
           0,
           0,
@@ -1874,7 +1874,7 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Backhand": [
+        "Rovescio": [
           0,
           0,
           0,
@@ -1887,7 +1887,7 @@ export const GEARS = {
           13,
           14
         ],
-        "Forehand": [
+        "Dritto": [
           0,
           0,
           0,
@@ -1937,7 +1937,7 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Forehand": [
+        "Dritto": [
           0,
           0,
           12,
@@ -1987,7 +1987,7 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Backhand": [
+        "Rovescio": [
           0,
           0,
           0,
@@ -2000,7 +2000,7 @@ export const GEARS = {
           8,
           9
         ],
-        "Forehand": [
+        "Dritto": [
           0,
           0,
           0,
@@ -2058,7 +2058,7 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Agility": [
+        "Agilità": [
           0,
           0,
           3,
@@ -2075,7 +2075,7 @@ export const GEARS = {
           6,
           6
         ],
-        "Forehand": [
+        "Dritto": [
           0,
           0,
           6,
@@ -2137,7 +2137,7 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Agility": [
+        "Agilità": [
           5,
           5,
           6,
@@ -2154,7 +2154,7 @@ export const GEARS = {
           12,
           12
         ],
-        "Forehand": [
+        "Dritto": [
           0,
           1,
           2,
@@ -2183,7 +2183,7 @@ export const GEARS = {
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/6/62/Starter_Grip.png/revision/latest?cb=20200119180605",
       "upgrade": {},
       "skills": {
-        "Backhand": [
+        "Rovescio": [
           3
         ]
       }
@@ -2231,7 +2231,7 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Volley": [
+        "Volée": [
           8,
           9,
           10,
@@ -2248,7 +2248,7 @@ export const GEARS = {
           19,
           19
         ],
-        "Backhand": [
+        "Rovescio": [
           0,
           1,
           2,
@@ -2302,7 +2302,7 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Forehand": [
+        "Dritto": [
           0,
           0,
           0,
@@ -2315,7 +2315,7 @@ export const GEARS = {
           13,
           14
         ],
-        "Backhand": [
+        "Rovescio": [
           0,
           0,
           0,
@@ -2373,7 +2373,7 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Forehand": [
+        "Dritto": [
           0,
           0,
           0,
@@ -2390,7 +2390,7 @@ export const GEARS = {
           12,
           13
         ],
-        "Backhand": [
+        "Rovescio": [
           0,
           0,
           0,
@@ -2452,7 +2452,7 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Volley": [
+        "Volée": [
           0,
           0,
           5,
@@ -2469,7 +2469,7 @@ export const GEARS = {
           9,
           9
         ],
-        "Backhand": [
+        "Rovescio": [
           0,
           0,
           6,
@@ -2523,7 +2523,7 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Backhand": [
+        "Rovescio": [
           0,
           0,
           12,
@@ -2573,7 +2573,7 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Forehand": [
+        "Dritto": [
           0,
           0,
           0,
@@ -2586,7 +2586,7 @@ export const GEARS = {
           9,
           9
         ],
-        "Backhand": [
+        "Rovescio": [
           0,
           0,
           0,
@@ -2644,7 +2644,7 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Backhand": [
+        "Rovescio": [
           0,
           0,
           0,
@@ -2698,7 +2698,7 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Volley": [
+        "Volée": [
           3,
           4,
           4,
@@ -2711,7 +2711,7 @@ export const GEARS = {
           6,
           7
         ],
-        "Backhand": [
+        "Rovescio": [
           3,
           5,
           7,
@@ -2736,7 +2736,7 @@ export const GEARS = {
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/1/1b/Starter_Shoe.png/revision/latest?cb=20200119185209",
       "upgrade": {},
       "skills": {
-        "Agility": [
+        "Agilità": [
           1
         ]
       }
@@ -2801,7 +2801,7 @@ export const GEARS = {
           10,
           11
         ],
-        "Agility": [
+        "Agilità": [
           0,
           0,
           7,
@@ -2863,7 +2863,7 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Serve": [
+        "Servizio": [
           0,
           0,
           5,
@@ -2880,7 +2880,7 @@ export const GEARS = {
           9,
           10
         ],
-        "Agility": [
+        "Agilità": [
           0,
           0,
           7,
@@ -2934,7 +2934,7 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Agility": [
+        "Agilità": [
           0,
           0,
           0,
@@ -2992,7 +2992,7 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Agility": [
+        "Agilità": [
           0,
           0,
           0,
@@ -3046,7 +3046,7 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Serve": [
+        "Servizio": [
           3,
           4,
           5,
@@ -3059,7 +3059,7 @@ export const GEARS = {
           7,
           7
         ],
-        "Agility": [
+        "Agilità": [
           5,
           6,
           7,
@@ -3122,7 +3122,7 @@ export const GEARS = {
           16,
           17
         ],
-        "Agility": [
+        "Agilità": [
           0,
           0,
           0,
@@ -3185,7 +3185,7 @@ export const GEARS = {
           7,
           8
         ],
-        "Agility": [
+        "Agilità": [
           1,
           4,
           7,
@@ -3243,7 +3243,7 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Serve": [
+        "Servizio": [
           0,
           0,
           0,
@@ -3260,7 +3260,7 @@ export const GEARS = {
           19,
           20
         ],
-        "Agility": [
+        "Agilità": [
           0,
           0,
           0,
@@ -3289,7 +3289,7 @@ export const GEARS = {
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/0/03/Starter_Band.png/revision/latest?cb=20200119212711",
       "upgrade": {},
       "skills": {
-        "Volley": [
+        "Volée": [
           0
         ]
       }
@@ -3329,7 +3329,7 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Serve": [
+        "Servizio": [
           0,
           0,
           0,
@@ -3342,7 +3342,7 @@ export const GEARS = {
           15,
           16
         ],
-        "Volley": [
+        "Volée": [
           0,
           0,
           0,
@@ -3400,7 +3400,7 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Volley": [
+        "Volée": [
           0,
           0,
           0,
@@ -3462,7 +3462,7 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Agility": [
+        "Agilità": [
           0,
           0,
           3,
@@ -3479,7 +3479,7 @@ export const GEARS = {
           6,
           6
         ],
-        "Volley": [
+        "Volée": [
           0,
           0,
           3,
@@ -3541,7 +3541,7 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Agility": [
+        "Agilità": [
           0,
           0,
           0,
@@ -3558,7 +3558,7 @@ export const GEARS = {
           12,
           12
         ],
-        "Volley": [
+        "Volée": [
           0,
           0,
           0,
@@ -3612,7 +3612,7 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Serve": [
+        "Servizio": [
           3,
           4,
           4,
@@ -3625,7 +3625,7 @@ export const GEARS = {
           7,
           7
         ],
-        "Volley": [
+        "Volée": [
           0,
           2,
           3,
@@ -3675,7 +3675,7 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Agility": [
+        "Agilità": [
           2,
           3,
           3,
@@ -3688,7 +3688,7 @@ export const GEARS = {
           4,
           4
         ],
-        "Volley": [
+        "Volée": [
           0,
           1,
           3,
@@ -3746,7 +3746,7 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Serve": [
+        "Servizio": [
           0,
           0,
           5,
@@ -3763,7 +3763,7 @@ export const GEARS = {
           9,
           10
         ],
-        "Volley": [
+        "Volée": [
           0,
           0,
           3,
@@ -3817,7 +3817,7 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Volley": [
+        "Volée": [
           0,
           0,
           0,
@@ -3890,7 +3890,7 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Forehand": [
+        "Dritto": [
           3,
           3,
           4,
@@ -3969,7 +3969,7 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Forehand": [
+        "Dritto": [
           0,
           0,
           0,
@@ -4040,7 +4040,7 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Forehand": [
+        "Dritto": [
           0,
           0,
           4,
@@ -4215,7 +4215,7 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Volley": [
+        "Volée": [
           0,
           0,
           0,
@@ -4303,7 +4303,7 @@ export const GEARS = {
           32,
           34
         ],
-        "Volley": [
+        "Volée": [
           0,
           0,
           5,
@@ -4357,7 +4357,7 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Volley": [
+        "Volée": [
           3,
           4,
           4,
@@ -4395,7 +4395,7 @@ export const GEARS = {
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/a/ac/Starter_Training.png/revision/latest?cb=20200120002723",
       "upgrade": {},
       "skills": {
-        "Serve": [
+        "Servizio": [
           1
         ]
       }
@@ -4448,7 +4448,7 @@ export const GEARS = {
           7,
           8
         ],
-        "Serve": [
+        "Servizio": [
           0,
           0,
           4,
@@ -4506,7 +4506,7 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Serve": [
+        "Servizio": [
           0,
           0,
           0,
@@ -4568,7 +4568,7 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Backhand": [
+        "Rovescio": [
           0,
           0,
           4,
@@ -4585,7 +4585,7 @@ export const GEARS = {
           7,
           8
         ],
-        "Serve": [
+        "Servizio": [
           0,
           0,
           4,
@@ -4639,7 +4639,7 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Backhand": [
+        "Rovescio": [
           3,
           3,
           4,
@@ -4652,7 +4652,7 @@ export const GEARS = {
           6,
           6
         ],
-        "Serve": [
+        "Servizio": [
           1,
           3,
           4,
@@ -4715,7 +4715,7 @@ export const GEARS = {
           16,
           17
         ],
-        "Serve": [
+        "Servizio": [
           0,
           0,
           0,
@@ -4773,7 +4773,7 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Backhand": [
+        "Rovescio": [
           0,
           0,
           0,
@@ -4790,7 +4790,7 @@ export const GEARS = {
           16,
           17
         ],
-        "Serve": [
+        "Servizio": [
           0,
           0,
           0,
@@ -4844,7 +4844,7 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Serve": [
+        "Servizio": [
           0,
           0,
           0,
@@ -4919,7 +4919,7 @@ export const GEARS = {
           10,
           11
         ],
-        "Serve": [
+        "Servizio": [
           1,
           2,
           4,
