@@ -2,8 +2,7 @@
 
 <p style="padding: 10px; margin-top: 0;">
     Seleziona i livelli delle tue carte disponibili.
-    Se gli attributi sono errati, scrivimi (in fondo a questa pagina).
-  Per importare/esportare i livelli delle tue carte
+    Per importare/esportare i livelli delle tue carte
   <b><u><a style="cursor: pointer; color: blue" (click)="toggleMode()">clicca qui</a></u></b>
   per copiare/incollare il testo JSON.
 </p>
@@ -64,7 +63,7 @@
                 {{ formatUpgrade(c) }}</td>
             </tr>
             <tr *ngIf="item.upgrade.Price">
-              <td>Gemme x up (K)</td>
+              <td>Gemme x up</td>
               <td *ngFor="let p of item.upgrade.Price; index as i" (click)="setInventory(g.category, item.name, i)"
                 [ngClass]="{'selected': hasInventory(g.category, item.name, i), 'number': true}">
                 {{ formatUpgrade(p, true) }}</td>
