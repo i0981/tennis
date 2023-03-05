@@ -52,7 +52,7 @@
                 {{ s }}</td>
             </tr>
             <tr>
-              <th>Total Power</th>
+              <th>Potenza totale</th>
               <th *ngFor="let t of item.total; index as i" (click)="setInventory(g.category, item.name, i)"
                 [ngClass]="{'selected': hasInventory(g.category, item.name, i), 'number': true}">
                 {{ t }}</th>
@@ -126,7 +126,7 @@
         </td>
       </tr>
       <tr height="53">
-        <th colspan="2" style="text-align: right;">Total Power (Desc):<br>Personaggio:</th>
+        <th colspan="2" style="text-align: right;">Potenza potale (Desc):<br>Personaggio:</th>
       </tr>
     </table>
 
@@ -182,7 +182,7 @@
         </td>
       </tr>
       <tr>
-        <th colspan="2" align="right">Total Power ({{ sumPowers(c.currentPowers) }}):</th>
+        <th colspan="2" align="right">Potenza totale ({{ sumPowers(c.currentPowers) }}):</th>
       </tr>
     </table>
 
