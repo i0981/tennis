@@ -48,7 +48,7 @@ export const GEARS = {
           13,
           14
         ],
-        "Stamina": [
+        "Resistenza": [
           3,
           4,
           4,
@@ -163,7 +163,7 @@ export const GEARS = {
           16,
           18
         ],
-        "Stamina": [
+        "Resistenza": [
           3,
           4,
           5,
@@ -278,7 +278,7 @@ export const GEARS = {
           21,
           23
         ],
-        "Stamina": [
+        "Resistenza": [
           7,
           8,
           9,
@@ -393,7 +393,7 @@ export const GEARS = {
           16,
           18
         ],
-        "Stamina": [
+        "Resistenza": [
           2,
           2,
           3,
@@ -514,7 +514,7 @@ export const GEARS = {
           ,
           17
         ],
-        "Stamina": [
+        "Resistenza": [
           4,
           4,
           5,
@@ -651,7 +651,7 @@ export const GEARS = {
           28,
           30
         ],
-        "Stamina": [
+        "Resistenza": [
           6,
           8,
           9,
@@ -798,7 +798,7 @@ export const GEARS = {
           18,
           19
         ],
-        "Stamina": [
+        "Resistenza": [
           2,
           2,
           3,
@@ -945,7 +945,7 @@ export const GEARS = {
           24,
           25
         ],
-        "Stamina": [
+        "Resistenza": [
           1,
           2,
           2,
@@ -1092,7 +1092,7 @@ export const GEARS = {
           22,
           23
         ],
-        "Stamina": [
+        "Resistenza": [
           3,
           4,
           5,
@@ -1239,7 +1239,7 @@ export const GEARS = {
           20,
           21
         ],
-        "Stamina": [
+        "Resistenza": [
           2,
           3,
           4,
@@ -1386,7 +1386,7 @@ export const GEARS = {
           30,
           32
         ],
-        "Stamina": [
+        "Resistenza": [
           7,
           8,
           9,
@@ -1533,7 +1533,7 @@ export const GEARS = {
           22,
           24
         ],
-        "Stamina": [
+        "Resistenza": [
           2,
           2,
           3,
@@ -2784,7 +2784,7 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Stamina": [
+        "Resistenza": [
           0,
           0,
           5,
@@ -3109,7 +3109,7 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Stamina": [
+        "Resistenza": [
           0,
           0,
           0,
@@ -3172,7 +3172,7 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Stamina": [
+        "Resistenza": [
           3,
           4,
           5,
@@ -3842,7 +3842,7 @@ export const GEARS = {
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/4/4d/Starter_Protein.png/revision/latest?cb=20200120004110",
       "upgrade": {},
       "skills": {
-        "Stamina": [
+        "Resistenza": [
           0
         ]
       }
@@ -3907,7 +3907,7 @@ export const GEARS = {
           8,
           8
         ],
-        "Stamina": [
+        "Resistenza": [
           0,
           1,
           3,
@@ -3986,7 +3986,7 @@ export const GEARS = {
           16,
           17
         ],
-        "Stamina": [
+        "Resistenza": [
           0,
           0,
           0,
@@ -4053,7 +4053,7 @@ export const GEARS = {
           6,
           6
         ],
-        "Stamina": [
+        "Resistenza": [
           0,
           0,
           3,
@@ -4111,7 +4111,7 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Stamina": [
+        "Resistenza": [
           0,
           0,
           0,
@@ -4165,7 +4165,7 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Stamina": [
+        "Resistenza": [
           0,
           0,
           0,
@@ -4228,7 +4228,7 @@ export const GEARS = {
           15,
           16
         ],
-        "Stamina": [
+        "Resistenza": [
           0,
           0,
           0,
@@ -4286,7 +4286,7 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Stamina": [
+        "Resistenza": [
           0,
           0,
           3,
@@ -4370,7 +4370,7 @@ export const GEARS = {
           6,
           7
         ],
-        "Stamina": [
+        "Resistenza": [
           0,
           2,
           3,
@@ -4435,7 +4435,7 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Stamina": [
+        "Resistenza": [
           0,
           0,
           5,
@@ -4702,7 +4702,7 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Stamina": [
+        "Resistenza": [
           0,
           0,
           0,
@@ -4902,7 +4902,7 @@ export const GEARS = {
         ]
       },
       "skills": {
-        "Stamina": [
+        "Resistenza": [
           4,
           5,
           5,
