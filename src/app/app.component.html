@@ -52,7 +52,7 @@
                 {{ s }}</td>
             </tr>
             <tr>
-              <th>Potenza totale</th>
+              <th>Potenza tot</th>
               <th *ngFor="let t of item.total; index as i" (click)="setInventory(g.category, item.name, i)"
                 [ngClass]="{'selected': hasInventory(g.category, item.name, i), 'number': true}">
                 {{ t }}</th>
@@ -105,7 +105,7 @@
 
     <table [formGroup]="formGroup" class="border" cellpadding="5" cellspacing="0" style="float: left;">
       <tr>
-        <th colspan="2" width="140" height="29" style="text-align: center;">Set Preferred Power</th>
+        <th colspan="2" width="140" height="29" style="text-align: center;">Imposta potenza</th>
       </tr>
       <tr *ngFor="let attr of ATTRIBUTES" height="33" [ngClass]="{'ignored': isIgnored(attr)}">
         <td>
@@ -171,7 +171,7 @@
     <table *ngIf="selectedConfig as c" class="border" cellspacing="0" cellpadding="5" style="float: left;">
       <tr>
         <th width="80">Category</th>
-        <th width="160" nowrap>Selected Item Name</th>
+        <th width="160" nowrap>Carte</th>
       </tr>
       <tr *ngFor="let cat of CATEGORIES; index as i">
         <td>{{ cat }}</td>
@@ -182,7 +182,7 @@
         </td>
       </tr>
       <tr>
-        <th colspan="2" align="right">Potenza totale ({{ sumPowers(c.currentPowers) }}):</th>
+        <th colspan="2" align="right">Potenza tot ({{ sumPowers(c.currentPowers) }}):</th>
       </tr>
     </table>
 
