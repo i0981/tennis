@@ -39,7 +39,7 @@
           </ng-template>
           <table class="border" cellpadding="5" cellspacing="0">
             <tr>
-              <th width="80">Level [<a [href]="item.url + '?veaction=edit&section=2'" target="_blank">edit</a>]</th>
+              <th width="80">Livello</th>
               <th width="25" *ngFor="let v of item.total; index as i" (click)="setInventory(g.category, item.name, i)"
                 [ngClass]="{'selected': hasInventory(g.category, item.name, i), 'number': true}">
                 {{ i + 1 }}
@@ -58,13 +58,13 @@
                 {{ t }}</th>
             </tr>
             <tr *ngIf="item.upgrade.Cards">
-              <td>Up Cards</td>
+              <td>Carte x up</td>
               <td *ngFor="let c of item.upgrade.Cards; index as i" (click)="setInventory(g.category, item.name, i)"
                 [ngClass]="{'selected': hasInventory(g.category, item.name, i), 'number': true}">
                 {{ formatUpgrade(c) }}</td>
             </tr>
             <tr *ngIf="item.upgrade.Price">
-              <td>Up Price (K)</td>
+              <td>Gemme x up (K)</td>
               <td *ngFor="let p of item.upgrade.Price; index as i" (click)="setInventory(g.category, item.name, i)"
                 [ngClass]="{'selected': hasInventory(g.category, item.name, i), 'number': true}">
                 {{ formatUpgrade(p, true) }}</td>
