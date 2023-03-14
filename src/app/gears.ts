@@ -8,34 +8,34 @@ export const GEARS = {
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/a/a0/Jonah.png/revision/latest?cb=20200119155809",
       "upgrade": {
         "Cards": [
-          "-",
+          "/",
           "2",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None"
+          "3",
+          "4",
+          "5",
+          "8",
+          "10",
+          "20",
+          "40",
+          "60",
+          "240",
+          "?",
+          "?"
         ],
-        "Price":[
-          "-",
-          "400",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None""
+        "Price": [
+          "/",
+          "0.4",
+          "1.4k",
+          "3.2k",
+          "6k",
+          "11k",
+          "17.2k",
+          "26k",
+          "36k",
+          "52k",
+          "66k",
+          "?",
+          "?"
         ]
       },
       "skills": {
@@ -84,7 +84,7 @@ export const GEARS = {
           14,
           15
         ],
-        "Volee":[
+        "Volee": [
           2,
           3,
           4,
@@ -99,7 +99,7 @@ export const GEARS = {
           10,
           10
         ],
-        "Dritto":[
+        "Dritto": [
           5,
           7,
           8,
@@ -139,34 +139,30 @@ export const GEARS = {
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/1/18/Hope.png/revision/latest?cb=20200119155826",
       "upgrade": {
         "Cards": [
-          "-",
+          "/",
           "2",
           "3",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None"
+          "4",
+          "5",
+          "8",
+          "10",
+          "20",
+          "40",
+          "60",
+          "100"
         ],
         "Price": [
-          "-",
-          "400",
-          "1400",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None"
+          "/",
+          "0.4",
+          "1.4k",
+          "3.2k",
+          "6k",
+          "11k",
+          "17.2k",
+          "26k",
+          "36k",
+          "52k",
+          "66k"
         ]
       },
       "skills": {
@@ -182,7 +178,7 @@ export const GEARS = {
           16,
           17,
           18,
-          20,
+          x,
           22
         ],
         "Resistenza": [
@@ -197,11 +193,11 @@ export const GEARS = {
           10,
           11,
           11,
-          13,
+          x,
           14
         ],
         "Servizio": [
-          4,
+          3,
           4,
           5,
           6,
@@ -212,7 +208,7 @@ export const GEARS = {
           10,
           10,
           11,
-          12,
+          x,
           12
         ],
         "Volee": [
@@ -227,12 +223,12 @@ export const GEARS = {
           11,
           12,
           13,
-          13,
+          x,
           14
         ],
         "Dritto": [
           4,
-          6,
+          5,
           7,
           8,
           9,
@@ -242,7 +238,7 @@ export const GEARS = {
           13,
           14,
           14,
-          16,
+          x,
           17
         ],
         "Rovescio": [
@@ -257,7 +253,7 @@ export const GEARS = {
           11,
           12,
           13,
-          14,
+          x,
           15
         ]
       }
@@ -270,34 +266,30 @@ export const GEARS = {
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/d/d9/Florence.png/revision/latest?cb=20200119155922",
       "upgrade": {
         "Cards": [
-          "-",
+          "Starter",
           "2",
           "3",
           "4",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None"
+          "5",
+          "8",
+          "10",
+          "20",
+          "40",
+          "120",
+          "250"
         ],
         "Price": [
-          "-",
-          "1400",
-          "3200",
-          "6000",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None"
+          "/",
+          "1.4k",
+          "3.2k",
+          "6k",
+          "11k",
+          "17.2k",
+          "26k",
+          "36k",
+          "52k",
+          "66k",
+          "110k"
         ]
       },
       "skills": {
@@ -312,9 +304,7 @@ export const GEARS = {
           18,
           20,
           21,
-          23,
-          25,
-          27
+          23
         ],
         "Resistenza": [
           7,
@@ -327,9 +317,7 @@ export const GEARS = {
           15,
           16,
           17,
-          19,
-          20,
-          21
+          19
         ],
         "Servizio": [
           1,
@@ -342,9 +330,7 @@ export const GEARS = {
           5,
           5,
           6,
-          7,
-          7,
-          8
+          7
         ],
         "Volee": [
           2,
@@ -357,9 +343,7 @@ export const GEARS = {
           6,
           7,
           7,
-          8,
-          9,
-          9
+          8
         ],
         "Dritto": [
           3,
@@ -372,9 +356,7 @@ export const GEARS = {
           9,
           10,
           11,
-          12,
-          13,
-          13
+          12
         ],
         "Rovescio": [
           3,
@@ -387,9 +369,7 @@ export const GEARS = {
           9,
           10,
           10,
-          11,
-          12,
-          13
+          11
         ]
       }
     },
@@ -401,34 +381,30 @@ export const GEARS = {
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/1/1d/Leo.png/revision/latest?cb=20200119154813",
       "upgrade": {
         "Cards": [
-          "-",
+          "Starter",
           "2",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None"
+          "3",
+          "4",
+          "5",
+          "8",
+          "10",
+          "20",
+          "40",
+          "60",
+          "100"
         ],
         "Price": [
-          "-",
-          "6000",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None"
+          "/",
+          "6k",
+          "11k",
+          "17.2k",
+          "26k",
+          "36k",
+          "52k",
+          "66k",
+          "86k",
+          "110k",
+          "180k"
         ]
       },
       "skills": {
@@ -443,9 +419,7 @@ export const GEARS = {
           13,
           15,
           16,
-          18,
-          19,
-          21
+          18
         ],
         "Resistenza": [
           2,
@@ -458,9 +432,7 @@ export const GEARS = {
           6,
           6,
           7,
-          7,
-          8,
-          8
+          7
         ],
         "Servizio": [
           5,
@@ -473,9 +445,7 @@ export const GEARS = {
           14,
           15,
           16,
-          17,
-          18,
-          19
+          17
         ],
         "Volee": [
           5,
@@ -488,9 +458,7 @@ export const GEARS = {
           14,
           15,
           16,
-          17,
-          18,
-          19
+          17
         ],
         "Dritto": [
           4,
@@ -503,9 +471,7 @@ export const GEARS = {
           10,
           11,
           12,
-          13,
-          14,
-          15
+          13
         ],
         "Rovescio": [
           3,
@@ -518,9 +484,7 @@ export const GEARS = {
           9,
           10,
           10,
-          11,
-          12,
-          13
+          11
         ]
       }
     },
@@ -532,34 +496,34 @@ export const GEARS = {
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/f/fa/Hyun-Jun.png/revision/latest?cb=20230302201326",
       "upgrade": {
         "Cards": [
-          "-",
+          "/",
           "2",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None"
+          "3",
+          "4",
+          "5",
+          "8",
+          "10",
+          "20",
+          "40",
+          "60",
+          "100"
+          "200"
+          "600"
         ],
         "Price": [
-          "-",
-          "6000",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None",
-          "None"
+          "/",
+          "0.4",
+          "1.4k",
+          "3.2k",
+          "6k",
+          "11k",
+          "17.2k",
+          "26k",
+          "36k",
+          "52k",
+          "660k",
+          "?"
+          "?"
         ]
       },
       "skills": {
@@ -569,13 +533,13 @@ export const GEARS = {
           6,
           7,
           8,
+          ,
           9,
-          11,
-          12,
-          13,
-          None,
-          None,
-          None,
+          ,
+          ,
+          ,
+          ,
+          ,
           17
         ],
         "Resistenza": [
@@ -584,13 +548,13 @@ export const GEARS = {
           5,
           5,
           6,
-          6,
+          ,
           7,
-          8,
-          8,
-          None,
-          None,
-          None,
+          ,
+          ,
+          ,
+          ,
+          ,
           11
         ],
         "Servizio": [
@@ -599,13 +563,13 @@ export const GEARS = {
           6,
           7,
           8,
-          9,
+          ,
           10,
-          11,
-          12,
-          None,
-          None,
-          None,
+          ,
+          ,
+          ,
+          ,
+          ,
           16
         ],
         "Volee": [
@@ -614,13 +578,13 @@ export const GEARS = {
           4,
           4,
           5,
+          ,
           6,
-          6,
-          7,
-          8,
-          None,
-          None,
-          None,
+          ,
+          ,
+          ,
+          ,
+          ,
           11
         ],
         "Dritto": [
@@ -629,13 +593,13 @@ export const GEARS = {
           10,
           11,
           12,
-          13,
+          ,
           16,
-          18,
-          19,
-          None,
-          None,
-          None,
+          ,
+          ,
+          ,
+          ,
+          ,
           23
         ],
         "Rovescio": [
@@ -644,13 +608,13 @@ export const GEARS = {
           7,
           8,
           9,
-          10,
+          ,
           11,
-          12,
-          13,
-          None,
-          None,
-          None,
+          ,
+          ,
+          ,
+          ,
+          ,
           17
         ]
       }
