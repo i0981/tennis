@@ -1868,7 +1868,7 @@ export const GEARS = {
           "None",
           "None",
           "None",
-          "None"          
+          "None"
         ],
         "Price": [
           "None",
@@ -1885,11 +1885,12 @@ export const GEARS = {
           "None",
           "None",
           "None",
-          "None"          
+          "None"
         ]
       },
       "skills": {
         "Dritto": [
+          None,
           None,
           None,
           None,
@@ -1947,6 +1948,7 @@ export const GEARS = {
       },
       "skills": {
         "Agilita": [
+          None,
           2,
           3,
           3,
@@ -1961,6 +1963,7 @@ export const GEARS = {
           5
         ],
         "Dritto": [
+          None,
           5,
           7,
           10,
