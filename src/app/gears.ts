@@ -401,30 +401,34 @@ export const GEARS = {
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/1/1d/Leo.png/revision/latest?cb=20200119154813",
       "upgrade": {
         "Cards": [
-          "Starter",
+          "-",
           "2",
-          "3",
-          "4",
-          "5",
-          "8",
-          "10",
-          "20",
-          "40",
-          "60",
-          "100"
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
         ],
         "Price": [
-          "/",
-          "6k",
-          "11k",
-          "17.2k",
-          "26k",
-          "36k",
-          "52k",
-          "66k",
-          "86k",
-          "110k",
-          "180k"
+          "-",
+          "6000",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
         ]
       },
       "skills": {
@@ -439,7 +443,9 @@ export const GEARS = {
           13,
           15,
           16,
-          18
+          18,
+          19,
+          21
         ],
         "Resistenza": [
           2,
@@ -452,7 +458,9 @@ export const GEARS = {
           6,
           6,
           7,
-          7
+          7,
+          8,
+          8
         ],
         "Servizio": [
           5,
@@ -465,7 +473,9 @@ export const GEARS = {
           14,
           15,
           16,
-          17
+          17,
+          18,
+          19
         ],
         "Volee": [
           5,
@@ -478,7 +488,9 @@ export const GEARS = {
           14,
           15,
           16,
-          17
+          17,
+          18,
+          19
         ],
         "Dritto": [
           4,
@@ -491,7 +503,9 @@ export const GEARS = {
           10,
           11,
           12,
-          13
+          13,
+          14,
+          15
         ],
         "Rovescio": [
           3,
@@ -504,7 +518,9 @@ export const GEARS = {
           9,
           10,
           10,
-          11
+          11,
+          12,
+          13
         ]
       }
     },
