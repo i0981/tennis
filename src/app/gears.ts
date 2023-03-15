@@ -35,7 +35,7 @@ export const GEARS = {
           "None",
           "None",
           "None",
-          "None""
+          "None"
         ]
       },
       "skills": {
