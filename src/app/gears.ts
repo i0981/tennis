@@ -13,29 +13,29 @@ export const GEARS = {
           "None",
           "None",
           "None",
-          "8",
-          "10",
-          "20",
-          "40",
-          "60",
-          "240",
-          "?",
-          "?"
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
         ],
         "Price":[
           "-",
           "400",
           "None",
-          "3.2k",
-          "6k",
-          "11k",
-          "17.2k",
-          "26k",
-          "36k",
-          "52k",
-          "66k",
-          "?",
-          "?"
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None""
         ]
       },
       "skills": {
@@ -84,7 +84,7 @@ export const GEARS = {
           14,
           15
         ],
-        "Volee": [
+        "Volee":[
           2,
           3,
           4,
@@ -99,7 +99,7 @@ export const GEARS = {
           10,
           10
         ],
-        "Dritto": [
+        "Dritto":[
           5,
           7,
           8,
