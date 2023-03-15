@@ -139,30 +139,34 @@ export const GEARS = {
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/1/18/Hope.png/revision/latest?cb=20200119155826",
       "upgrade": {
         "Cards": [
-          "/",
+          "-",
           "2",
           "3",
-          "4",
-          "5",
-          "8",
-          "10",
-          "20",
-          "40",
-          "60",
-          "100"
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
         ],
         "Price": [
-          "/",
-          "0.4",
-          "1.4k",
-          "3.2k",
-          "6k",
-          "11k",
-          "17.2k",
-          "26k",
-          "36k",
-          "52k",
-          "66k"
+          "-",
+          "400",
+          "1400",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
         ]
       },
       "skills": {
@@ -178,7 +182,7 @@ export const GEARS = {
           16,
           17,
           18,
-          x,
+          20,
           22
         ],
         "Resistenza": [
@@ -193,11 +197,11 @@ export const GEARS = {
           10,
           11,
           11,
-          x,
+          13,
           14
         ],
         "Servizio": [
-          3,
+          4,
           4,
           5,
           6,
@@ -208,7 +212,7 @@ export const GEARS = {
           10,
           10,
           11,
-          x,
+          12,
           12
         ],
         "Volee": [
@@ -223,12 +227,12 @@ export const GEARS = {
           11,
           12,
           13,
-          x,
+          13,
           14
         ],
         "Dritto": [
           4,
-          5,
+          6,
           7,
           8,
           9,
@@ -238,7 +242,7 @@ export const GEARS = {
           13,
           14,
           14,
-          x,
+          16,
           17
         ],
         "Rovescio": [
@@ -253,7 +257,7 @@ export const GEARS = {
           11,
           12,
           13,
-          x,
+          14,
           15
         ]
       }
