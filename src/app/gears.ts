@@ -8,11 +8,11 @@ export const GEARS = {
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/a/a0/Jonah.png/revision/latest?cb=20200119155809",
       "upgrade": {
         "Cards": [
-          "/",
+          "-",
           "2",
-          "3",
-          "4",
-          "5",
+          "None",
+          "None",
+          "None",
           "8",
           "10",
           "20",
@@ -22,10 +22,10 @@ export const GEARS = {
           "?",
           "?"
         ],
-        "Price": [
-          "/",
-          "0.4",
-          "1.4k",
+        "Price":[
+          "-",
+          "400",
+          "None",
           "3.2k",
           "6k",
           "11k",
