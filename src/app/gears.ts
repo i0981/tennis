@@ -270,30 +270,34 @@ export const GEARS = {
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/d/d9/Florence.png/revision/latest?cb=20200119155922",
       "upgrade": {
         "Cards": [
-          "Starter",
+          "-",
           "2",
           "3",
           "4",
-          "5",
-          "8",
-          "10",
-          "20",
-          "40",
-          "120",
-          "250"
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
         ],
         "Price": [
-          "/",
-          "1.4k",
-          "3.2k",
-          "6k",
-          "11k",
-          "17.2k",
-          "26k",
-          "36k",
-          "52k",
-          "66k",
-          "110k"
+          "-",
+          "1400",
+          "3200",
+          "6000",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None",
+          "None"
         ]
       },
       "skills": {
@@ -308,7 +312,9 @@ export const GEARS = {
           18,
           20,
           21,
-          23
+          23,
+          25,
+          27
         ],
         "Resistenza": [
           7,
@@ -321,7 +327,9 @@ export const GEARS = {
           15,
           16,
           17,
-          19
+          19,
+          20,
+          21
         ],
         "Servizio": [
           1,
@@ -334,7 +342,9 @@ export const GEARS = {
           5,
           5,
           6,
-          7
+          7,
+          7,
+          8
         ],
         "Volee": [
           2,
@@ -347,7 +357,9 @@ export const GEARS = {
           6,
           7,
           7,
-          8
+          8,
+          9,
+          9
         ],
         "Dritto": [
           3,
@@ -360,7 +372,9 @@ export const GEARS = {
           9,
           10,
           11,
-          12
+          12,
+          13,
+          13
         ],
         "Rovescio": [
           3,
@@ -373,7 +387,9 @@ export const GEARS = {
           9,
           10,
           10,
-          11
+          11,
+          12,
+          13
         ]
       }
     },
