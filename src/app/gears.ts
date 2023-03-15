@@ -573,9 +573,9 @@ export const GEARS = {
           11,
           12,
           13,
-          None,
-          None,
-          None,
+          14,
+          15,
+          16,
           17
         ],
         "Resistenza": [
@@ -588,9 +588,9 @@ export const GEARS = {
           7,
           8,
           8,
-          None,
-          None,
-          None,
+          9,
+          10,
+          11,
           11
         ],
         "Servizio": [
@@ -603,9 +603,9 @@ export const GEARS = {
           10,
           11,
           12,
-          None,
-          None,
-          None,
+          13,
+          14,
+          15,
           16
         ],
         "Volee": [
@@ -618,9 +618,9 @@ export const GEARS = {
           6,
           7,
           8,
-          None,
-          None,
-          None,
+          9,
+          10,
+          11,
           11
         ],
         "Dritto": [
@@ -633,9 +633,9 @@ export const GEARS = {
           16,
           18,
           19,
-          None,
-          None,
-          None,
+          20,
+          21,
+          22,
           23
         ],
         "Rovescio": [
@@ -648,9 +648,9 @@ export const GEARS = {
           11,
           12,
           13,
-          None,
-          None,
-          None,
+          14,
+          15,
+          16,
           17
         ]
       }
