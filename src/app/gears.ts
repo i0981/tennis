@@ -96,8 +96,8 @@ export const GEARS = {
           8,
           8,
           9,
-           ,
-           
+          ,
+          
         ],
         "Dritto":[
           5,
