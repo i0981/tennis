@@ -2516,11 +2516,11 @@ export const GEARS = {
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/f/f1/The_Cobra.png/revision/latest?cb=20200119165513",
       "upgrade": {
         "Cards": [
-          "",
-          "",
-          "",
-          "",
-          "",
+          "-",
+          "-",
+          "-",
+          "-",
+          "2",
           "4",
           "",
           "",
@@ -2531,11 +2531,11 @@ export const GEARS = {
           ""
         ],
         "Price": [
-          "",
-          "",
-          "",
-          "",
-          "",
+          "-",
+          "-",
+          "-",
+          "-",
+          "21700",
           "27500",
           "",
           "",
