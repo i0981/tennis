@@ -864,7 +864,7 @@ export const GEARS = {
         ],
         "Resistenza": [
           4,
-          4,
+          5,
           5,
           6,
           6,
@@ -915,7 +915,7 @@ export const GEARS = {
         ],
         "Dritto": [
           8,
-          7,
+          9,
           8,
           9,
           11,
@@ -2264,10 +2264,10 @@ export const GEARS = {
       "imageUrl": "https://vignette.wikia.nocookie.net/tennis-clash/images/4/4b/The_Samurai.png/revision/latest?cb=20200119164010",
       "upgrade": {
         "Cards": [
-          "",
-          "",
-          "",
-          "",
+          "-",
+          "-",
+          "-",
+          "2",
           "",
           "10",
           "",
@@ -2281,10 +2281,10 @@ export const GEARS = {
           ""
         ],
         "Price": [
-          "",
-          "",
-          "",
-          "",
+          "-",
+          "-",
+          "-",
+          "15000",
           "",
           "27500",
           "",
@@ -2302,7 +2302,7 @@ export const GEARS = {
         "Agilita": [
           ,
           ,
-          ,
+          3,
           3,
           3,
           3,
@@ -2319,7 +2319,7 @@ export const GEARS = {
         "Dritto": [
           ,
           ,
-          ,
+          6,
           10,
           14,
           18,
